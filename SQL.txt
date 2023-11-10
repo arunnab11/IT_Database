@@ -1,0 +1,18 @@
+                                                        <<SQL>>
+i) DDL-Data Definition Language
+ 1) create
+ 2) Drop
+ 3) Alter
+ 4) concat
+ii) DML-Data Manipulation language
+ 1) Insert
+ 2) Update
+ 3) delete
+ 4) merge
+iii) TCl-Transfer Control Language
+ 1) Commit
+ 2) Rollback
+ 3) safePoint
+iv) DCL-Data Control Language
+ 1) Grant
+ 2) Revoke
